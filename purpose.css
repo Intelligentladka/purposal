@@ -1,0 +1,36 @@
+html body{
+    background-color:pink;
+    background-image: url(https://wallpapercave.com/wp/GUmdD9q.jpg);
+    background-size: cover;
+}
+#box{
+    height: 400px;
+    width: 400px;
+    border:3px solid black;
+    background-image: url(https://th.bing.com/th/id/OIP.nHWl9bs4CJ9Ezmo8GAnigwAAAA?rs=1&pid=ImgDetMain);
+    border-radius: 10%;
+
+}
+#box:hover{
+    background-image: url(https://emmanuelthousandoaks.org/wp-content/uploads/2020/05/cover-3.jpg);
+    background-size: cover;
+}
+.class{
+    height: 100px;
+    width: 400px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.yes{
+    width: 200px;
+    border: 3px solid black;
+    background-image: url(https://th.bing.com/th/id/R.a0239de4d5c659fa9550bf365269df90?rik=1ZGyz42PZ%2f5htQ&riu=http%3a%2f%2fwonderfulengineering.com%2fwp-content%2fuploads%2f2014%2f09%2fyellow-wallpaper-9.jpg&ehk=a20ifsVSzLEPfnF6JJgHMJnn4%2fBWJNgNMpKz%2bFXWnK0%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+    border-radius: 20%;
+}
+.yes:hover{
+    background-color:yellow;
+}

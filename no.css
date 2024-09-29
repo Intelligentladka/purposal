@@ -1,0 +1,20 @@
+html body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/962/809/original/abstract-gradient-background-with-colorful-and-modern-style-vector.jpg);
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+#box{
+    width: 400px;
+    height: 200px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#box:hover{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/010/847/581/non_2x/gradient-background-for-covers-wallpaper-social-media-web-design-and-many-other-vector.jpg);
+    background-size: cover;
+}

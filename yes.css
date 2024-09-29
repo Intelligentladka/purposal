@@ -1,0 +1,24 @@
+html body{
+    background-image: url(https://wallpapercave.com/wp/HOT9fl6.jpg);
+    background-size: cover;
+}
+#box{
+    height: 350px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10%;
+    justify-content: center;
+    display: flex;
+}
+#box:hover{
+    background-image: url(http://ts1.mm.bing.net/th?id=OIP.QJEBaVyDjHsaCHm2Ps_HwAHaNJ&pid=15.1);
+    background-size:cover;
+}
+.insta{
+    height: 80px;
+    width:130px ;
+    border-radius: 10%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
